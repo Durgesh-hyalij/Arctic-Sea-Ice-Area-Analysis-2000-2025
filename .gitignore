@@ -1,2 +1,6 @@
 snow2venv/
 .venv/
+masterdataset
+Master_dataset/
+.Master_dataset/
+__pycache__
